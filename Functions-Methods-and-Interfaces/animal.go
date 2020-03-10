@@ -42,7 +42,7 @@ func main(){
 		case "bird":
 			a.food = "worms"
 			a.locomotion = "fly"
-			a.sound = "poop"
+			a.sound = "peep"
 		case "snake":
 			a.food = "mice"
 			a.locomotion = "slither"
